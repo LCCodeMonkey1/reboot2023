@@ -1,6 +1,3 @@
 # reboot2023
-Repository for Reboot class
-
-## My first header on github
-
-cats
+Repository for Reboot 1.0 class in 2023.
+Beginner class
